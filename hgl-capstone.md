@@ -1,7 +1,7 @@
-![](img/gloves.jpg)
+<img src="img/gloves.jpg" style="width: 75% important!;" />
 ---
-![](img/cards.jpg)
+<img src="img/cards.jpg" style="width: 75% important!;" />
 ---
-![](img/biss.png)
+<img src="img/biss.png" style="width: 75% important!;" />
 ---
-![](img/wishlist.png)
+<img src="img/wishlist.png" style="width: 75% important!;" />
