@@ -6,4 +6,10 @@
 ---
 ![](img/wishlist.png)
 ---
+notes:
+
+– test out collaboration in person
+
+– not every great project is a business
+---
 Nov. 6-10
