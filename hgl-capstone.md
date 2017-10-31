@@ -8,7 +8,7 @@
 ---
 notes:
 
-– test out collaboration in person
+– test out collaboration
 
 – not every great project is a business
 ---
